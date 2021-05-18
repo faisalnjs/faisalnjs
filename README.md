@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Discord.js!
 - 💞️ I’m looking to collaborate on websites.
 - 📫 You can reach me at [fnageer3@outlook.com](mailto:fnageer3@outlook.com)
-- 📣 Free web hosting & website creation! View our site at [https://fnageer.ml/](https://fnageer.ml/)!
+- 📣 Free web hosting & website creation! View our site [here](https://fnageer.ml/)!
 - 👉 Fun Fact: I've watch more than 250 Anime!
 [My GitHub Stats!](https://github-readme-stats.vercel.app/api?username=nageerf&show_icons=true&theme=blue-green)
