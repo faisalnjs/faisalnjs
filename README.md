@@ -6,4 +6,4 @@
 - 📣 Free web hosting & website creation! View our site [here](https://fnageer.ml/)!
 - 👉 Fun Fact: I've watch more than 250 Anime!
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nageerf&show_icons=true&theme=blue-green)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
