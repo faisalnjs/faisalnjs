@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nageerf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Faisal Nageer (@nageerf)!
+- 👀 I’m make websites, apps, games, bots, and more!
+- 🌱 I’m currently learning Discord.js!
+- 💞️ I’m looking to collaborate on websites.
+- 📫 You can reach me at [fnageer3@outlook.com](mailto:fnageer3@outlook.com)
 
 <!---
 nageerf/nageerf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
