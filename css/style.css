@@ -89,14 +89,14 @@ figure {
 }
 
 .page-border .bottom-border, .page-border .left-border, .page-border .right-border, .page-border .top-border {
-    background: #f3f3ef;
+    background: #ffffff;
     position: fixed;
     z-index: 9999;
 }
 
 .page-border > .top-border, .page-border > .right-border, .page-border > .bottom-border, .page-border > .left-border {
     padding: 11px;
-    background: #ccc;
+    background: #ffffff;
 }
 
 .page-border .bottom-border, .page-border .top-border {
@@ -353,7 +353,6 @@ section {
 }
 
 #logo img {
-    max-height: 22px;
     vertical-align: middle;
     margin-right: 15px;
 }
@@ -1540,7 +1539,7 @@ blockquote {
 }
 
 #scrollUp:before {
-    background: #ccc;
+    background: #e4473c;
     font-family: "fontawesome";
     font-size: 2.4em;
     font-style: normal;
@@ -1553,6 +1552,8 @@ blockquote {
     line-height: 45px;
     content: "\f106";
     opacity: 1;
+    border-radius: 15px;
+    border: 0px;
 }
 
 /*Preloader*/
