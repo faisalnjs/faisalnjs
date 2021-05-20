@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Faisal Nageer (@nageerf)!
+# 👋 Hi, I’m Faisal Nageer (@nageerf)!
 - 👀 I make websites, bots, apps, software, games, and more!
 - 🌱 I’m currently learning Discord.js!
 - 💞️ I’m looking to collaborate on websites.
