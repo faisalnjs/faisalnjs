@@ -768,7 +768,7 @@ h6 {
 .section-heading h3 {
     font-size: 14px;
     font-weight: bold;
-    color: #ccc;
+    color: #e4473c;
     letter-spacing: 2px;
     padding-bottom: 0;
 }
@@ -792,6 +792,7 @@ h6 {
 
 #banner .section-heading:before {
     content: "";
+
     display: block;
     width: 30px;
     height: 5px;
