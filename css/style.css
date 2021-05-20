@@ -533,6 +533,7 @@ section {
     -o-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
     opacity: 0.5;
+    color: #e4473c;
 }
 
 #header.nav-solid .social-icons a:hover {
