@@ -6,6 +6,8 @@
 - 📣 Free website creation! View our site [here](https://dangoweb.ga/)!
 - 👉 Fun Fact: I've watch more than 250 Anime!
 
+<iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:fnageer&size=detail&theme=dark" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+
 ![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nageerf&show_icons=true&hide_border=true&icon_color=ffffff&bg_color=30,e4473c,ff0000&title_color=fff&text_color=fff)
 ![Faisal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nageerf&hide_border=true&langs_count=10&custom_title=Familiar%20Languages&bg_color=30,e4473c,ff0000&title_color=fff&text_color=fff)
 <!--[Faisal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nageerf&hide_border=true&custom_title=Coding%20Activity&icon_color=ffffff&bg_color=30,e4473c,ff0000&title_color=fff&text_color=fff)-->
