@@ -6,7 +6,7 @@
 - 📣 Free website creation! View our site [here](https://dangoweb.ga/)!
 - 👉 Fun Fact: I've watch more than 250 Anime!
 
-<iframe src="https://open.spotify.com/follow/1/?uri=spotify:user:fnageer&size=detail&theme=dark" width="300" height="56" scrolling="no" frameborder="0" style="border:none; overflow:hidden;" allowtransparency="true"></iframe>
+<a href="https://open.spotify.com/follow/1/callback?code=AQCLdAhbC_s1RAwVp8h8QfWj2PWwYBtmstQqPaFCeL8PyO66ES-uEb17me-4R04I9iiWFgf-XMMpS5jD8mxGPnW8znr3MvFePYMT0LYc8mdksHHsUQsMHop9rv3k2NfunyZgXmZSWyFEZ68djU5u_LnCmvi-TP59dBmDmLgpUGQWr78WHg27hybA8Yhmp0zmt0T1wN9CZqk3vExv0XJV0Ab_OLpYVixtttbnlsPqHnn30jir&state=BRZcGCCNsy">![Faisal's Spotify Account](https://user-images.githubusercontent.com/84286255/123860457-ed034880-d8f3-11eb-80da-4cfc09694d93.png)</a>
 
 ![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nageerf&show_icons=true&hide_border=true&icon_color=ffffff&bg_color=30,e4473c,ff0000&title_color=fff&text_color=fff)
 ![Faisal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nageerf&hide_border=true&langs_count=10&custom_title=Familiar%20Languages&bg_color=30,e4473c,ff0000&title_color=fff&text_color=fff)
