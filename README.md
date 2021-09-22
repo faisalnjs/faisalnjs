@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Faisal! <a href="#"><img src="https://faisaln.cf/images/favicon.ico" height="25px" /></a>
+# 👋 Hi, I’m Faisal! <a href="#"><img src="https://faisaln.cf/favicon.ico" height="25px" /></a>
 - 👀 I make websites, bots, apps, software, games, and more!
 - 🌱 I’m currently learning Discord.js, Git, PHP, and more!
 - 💞️ I’m looking to collaborate on or create websites!
