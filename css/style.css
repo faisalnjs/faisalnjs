@@ -1,4 +1,12 @@
-/* Namari Landing Page v.1.1.0 Style Index - a free landing page by shapingrain.com
+.locked {
+    display: none;
+}
+
+.unlocked {
+    display: block;
+}
+
+/*
 
 1. Default and Reset styles
 - 1.1 Input Elements

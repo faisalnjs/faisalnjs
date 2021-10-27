@@ -65,3 +65,39 @@ $(window).load(function () { // makes sure the whole site is loaded
 	}
 
 });
+
+// Get references to the elements you'll be working with
+var input = document.getElementById("password");
+var div = document.getElementById("HIDDENDIV");
+var btn = document.getElementById("button");
+
+// Set up event handlers in JavaScript
+button.addEventListener("click", validate);
+
+function validate() {
+	if (input.value == 'PASSWORD') {
+		// No need to add a "show" class. Just remove the "hidden" class.
+		div.classList.remove('locked');
+
+		// Or, add it:
+		input.classList.add("locked");
+
+		// No need to add a "show" class. Just remove the "hidden" class.
+		div.classList.add('unlocked');
+
+		// Or, add it:
+		input.classList.remove("unlocked");
+
+	} else {
+		password.focus(); // <-- If you don't do this first, your select code won't work
+		password.setSelectionRange(0, password.value.length);
+		alert('Invalid Password!');
+	}
+}
+
+input.addEventListener("keydown", function (event) {
+	if (event.keyCode === 13) {
+		// No reason to simulate a button click. Just call the code that needs to be run.
+		validate();
+	}
+});
