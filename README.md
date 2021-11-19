@@ -24,8 +24,8 @@
 - <a href="#"><img src="https://img.shields.io/badge/Replit-0388fc?style=for-the-badge&logo=replit&logoColor=white"/></a>
 - <a href="#"><img src="https://img.shields.io/badge/Figma-7cff54?style=for-the-badge&logo=figma&logoColor=black"/></a>
 # <h3>Stats:</h3>
-![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=nageerf&show_icons=true&hide_border=true&icon_color=ffffff&bg_color=30,e4473c,ff0000&title_color=fff&text_color=fff)
-![Faisal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nageerf&hide_border=true&langs_count=10&custom_title=Familiar%20Languages&bg_color=30,e4473c,ff0000&title_color=fff&text_color=fff)
-<!--[Faisal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nageerf&hide_border=true&custom_title=Coding%20Activity&icon_color=ffffff&bg_color=30,e4473c,ff0000&title_color=fff&text_color=fff)-->
+![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGFaisalN&show_icons=true&hide_border=true&icon_color=ffffff&bg_color=30,e4473c,ff0000&title_color=fff&text_color=fff)
+![Faisal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OGFaisalN&hide_border=true&langs_count=10&custom_title=Familiar%20Languages&bg_color=30,e4473c,ff0000&title_color=fff&text_color=fff)
+<!--[Faisal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OGFaisalN                              &hide_border=true&custom_title=Coding%20Activity&icon_color=ffffff&bg_color=30,e4473c,ff0000&title_color=fff&text_color=fff)-->
 # <h3>Jokes:</h3>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
