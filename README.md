@@ -10,7 +10,7 @@
 - 🎵 Click <a href="https://faisaln.cf/music">here</a> to see my favorite songs!
 - 🎧 Click <a href="https://open.spotify.com/follow/1/callback?code=AQCLdAhbC_s1RAwVp8h8QfWj2PWwYBtmstQqPaFCeL8PyO66ES-uEb17me-4R04I9iiWFgf-XMMpS5jD8mxGPnW8znr3MvFePYMT0LYc8mdksHHsUQsMHop9rv3k2NfunyZgXmZSWyFEZ68djU5u_LnCmvi-TP59dBmDmLgpUGQWr78WHg27hybA8Yhmp0zmt0T1wN9CZqk3vExv0XJV0Ab_OLpYVixtttbnlsPqHnn30jir&state=BRZcGCCNsy">here</a> to follow me on Spotify!
 
-I excell at developing websites using HTML, CSS, and JS quickly. You can see a couple of them [here](/sites). All websites are made with top frameworks, and work on both Mobile and Desktop.
+I excell at developing websites using HTML, CSS, and JS quickly. You can see a couple of them [here](https://faisaln.cf/sites). All websites are made with top frameworks, and work on both Mobile and Desktop.
 
 ![Banner](https://faisaln.cf/banner.png)
 
