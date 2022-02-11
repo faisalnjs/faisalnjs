@@ -53,7 +53,7 @@ I excell at developing websites using HTML, CSS, and JS quickly. You can see a c
 
 ![Faisal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OGFaisalN&theme=flag-india&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=5A2ECA&stroke=FFFFFF&ring=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakLabel=FFFFFF)
 
-![Faisal's Trophys](https://github-profile-trophy.vercel.app/?username=OGFaisalN&no-bg=true&column=7&no-frame=true&margin-w=15&margin-h=15)
+![Faisal's Trophys](https://github-profile-trophy.vercel.app/?username=OGFaisalN&column=7&no-frame=true&margin-w=15&margin-h=15)
 
 # <h3>Jokes:</h3>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
