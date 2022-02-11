@@ -49,6 +49,8 @@ I excell at developing websites using HTML, CSS, and JS quickly. You can see a c
 ![Faisal's GitHub stats](https://github-readme-stats.vercel.app/api?username=OGFaisalN&show_icons=true&hide_border=true&icon_color=ffffff&bg_color=30,5a2eca,33ccff&title_color=fff&text_color=fff)
 ![Faisal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OGFaisalN&text_size=1000px&card_width=495px&hide_border=true&langs_count=10&custom_title=Familiar%20Languages&bg_color=30,5a2eca,33ccff&title_color=fff&text_color=fff)
 <!--[Faisal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OGFaisalN                              &hide_border=true&custom_title=Coding%20Activity&icon_color=ffffff&bg_color=30,e4473c,ff0000&title_color=fff&text_color=fff)-->
+![Faisal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OGFaisalN&theme=flag-india&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=5A2ECA&stroke=FFFFFF&ring=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakLabel=FFFFFF)
+![Faisal's Trophys](https://github-profile-trophy.vercel.app/?username=OGFaisalN&theme=discord&no-frame=true&margin-w=15&margin-h=15)
 
 # <h3>Jokes:</h3>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
