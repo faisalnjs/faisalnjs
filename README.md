@@ -57,3 +57,6 @@ I excell at developing websites using HTML, CSS, and JS quickly. You can see a c
 
 # <h3>Jokes:</h3>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+# <h3>Profile Views:</h3>
+![Views Counter](https://profile-counter.glitch.me/OGFaisalN/count.svg)
