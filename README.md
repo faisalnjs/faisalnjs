@@ -1,29 +1,31 @@
 # 👋 Hi, I’m Faisal! <a href="#"><img src="https://faisaln.cf/favicon.ico" height="25px" /></a>
-- 👀 I make websites, bots, apps, software, games, and more!
-- 🌱 I’m currently learning Discord.js, Git, PHP, and more!
-- 💞️ I’m looking to collaborate on or create websites!
-- 👉 Fun Fact: I've watch more than 250 Anime!
-- 📣 Free website creation! View our site [here](https://dangoweb.ga/)!
-- 📫 You can reach me at [contact@faisaln.cf](mailto:contact@faisaln.cf)!
+- 👀 I make websites, bots, apps, software, games, themes, and more!
+- 🌱 I’m currently learning C++, Git, PHP, VB, MySQL, and more!
+- 📫 You can reach me at [contact@faisaln.cf](mailto:contact@faisaln.cf) or [+19292657367](tel:+19292657367)!
+- 📣 Free website creation & hosting! View our site [here](https://dangoweb.xyz/)!
+- 💻 I’m looking to collaborate on or create websites!
+- ✨ Fun Fact: I've watched more than 250 Anime!
 - 🎮 Click <a href="https://gaming.faisaln.cf">here</a> to go to my YouTube channel!
+- 🍰 I like cheesecake very very very much!
 - 🗣 My name is pronounced as: FY-sahl!
-- 🎵 Click <a href="https://faisaln.cf/music">here</a> to see my favorite songs!
+- 🎵 Click <a href="/music">here</a> to see my favorite songs!
 - 🎧 Click <a href="https://open.spotify.com/follow/1/callback?code=AQCLdAhbC_s1RAwVp8h8QfWj2PWwYBtmstQqPaFCeL8PyO66ES-uEb17me-4R04I9iiWFgf-XMMpS5jD8mxGPnW8znr3MvFePYMT0LYc8mdksHHsUQsMHop9rv3k2NfunyZgXmZSWyFEZ68djU5u_LnCmvi-TP59dBmDmLgpUGQWr78WHg27hybA8Yhmp0zmt0T1wN9CZqk3vExv0XJV0Ab_OLpYVixtttbnlsPqHnn30jir&state=BRZcGCCNsy">here</a> to follow me on Spotify!
+- 😸 Cats really like to be around me!
+- 📅 Click <a href="https://portal.dangoweb.xyz/booking/">here</a> to book my services!
+- ❤️ I like most cats and girls a lot!
+- 🍞 I'm a <a href="/gf">single</a> straight male!
 
-I excell at developing websites using HTML, CSS, and JS quickly. You can see a couple of them [here](https://faisaln.cf/sites). All websites are made with top frameworks, and work on both Mobile and Desktop.
+I excell at developing websites using HTML, CSS, and JS quickly. You can see some of them [here](/sites) and [here](https://dangoweb.xyz/theme). Most, if not all, of my websites are made using top frameworks, and work fully on Mobile, Desktop, and Tablet devices.
 
 ![Banner](https://faisaln.cf/banner.png)
 
-<a href="https://faisaln.cf">![About](https://faisaln.cf/AboutPanel.png)</a>
+<a href="#">![About](/AboutPanel.png)</a>
 
-<a href="https://twitter.com/OGFaisalN">![Twitter](https://faisaln.cf/TwitterPanel.png)</a>
+<a href="https://twitter.com/OGFaisalN">![Twitter](/TwitterPanel.png)</a>
 
-<a href="https://gaming.faisaln.cf/">![YouTube](https://faisaln.cf/YouTubePanel.png)</a>
+<a href="https://gaming.faisaln.cf/">![YouTube](/YouTubePanel.png)</a>
 
-<a href="https://www.buymeacoffee.com/faisaln">![Subscribe](https://faisaln.cf/SubscribePanel.png)</a>
-
-<a href="https://www.buymeacoffee.com/faisaln"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza&emoji=🍕&slug=faisaln&button_colour=5a2eca&font_colour=ffffff&font_family=Poppins&outline_colour=000000&coffee_colour=FFDD00"></img></a>
-
+<a href="https://www.buymeacoffee.com/faisaln">![Subscribe](/SubscribePanel.png)</a>
 
 # <h3>Status:</h3>
 <a href="https://discord.gg/5djHSwTfSX">![Discord Status](https://discord.c99.nl/widget/theme-4/905990944858451988.png)</a>
@@ -39,7 +41,7 @@ I excell at developing websites using HTML, CSS, and JS quickly. You can see a c
 
 # <h3>Editors I use:</h3>
 - <a href="#"><img src="https://img.shields.io/badge/Github_Desktop-3d3d3d?style=for-the-badge&logo=github&logoColor=white"/></a>
-- <a href="#"><img src="https://img.shields.io/badge/Visual_Studio-5d2b90?style=for-the-badge&logo=visual%20studio&logoColor=white"/></a>
+- <a href="#"><img src="https://img.shields.io/badge/Visual_Studio-5d2b90?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
 - <a href="#"><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/></a>
 - <a href="#"><img src="https://img.shields.io/badge/Framer-212121?style=for-the-badge&logo=framer&logoColor=white"/></a>
 - <a href="#"><img src="https://img.shields.io/badge/Replit-0388fc?style=for-the-badge&logo=replit&logoColor=white"/></a>
