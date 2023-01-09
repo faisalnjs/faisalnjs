@@ -13,7 +13,7 @@
 - 😸 Cats really like to be around me!
 - 📅 Click <a href="https://portal.dangoweb.xyz/booking/">here</a> to book my services!
 - ❤️ I like most cats and girls a lot!
-- 🍞 I'm a <a href="/gf">single</a> straight male!
+- 🍞 I'm a single straight male!
 
 I excell at developing websites using HTML, CSS, and JS quickly. You can see some of them [here](/sites) and [here](https://dangoweb.xyz/theme). Most, if not all, of my websites are made using top frameworks, and work fully on Mobile, Desktop, and Tablet devices.
 
