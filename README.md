@@ -2,15 +2,21 @@
 
 This README is no longer maintained; check out [my website](https://faisaln.com) for my updated profile.
 
-Like my work? Consider <a href="https://www.buymeacoffee.com/faisaln">donating</a>!
+Like my work? Consider [donating](https://www.buymeacoffee.com/faisaln)!
 
-<a href="https://discord.gg/5djHSwTfSX">![Discord Status](https://discord.c99.nl/widget/theme-4/905990944858451988.png)</a>
+[![Discord Status](https://discord.c99.nl/widget/theme-4/905990944858451988.png)](https://discord.gg/5djHSwTfSX)
 
 ![Faisal's Skills](https://skillicons.dev/icons?i=atom,azure,bootstrap,cpp,cloudflare,codepen,css,devto,discord,bots,express,figma,firebase,gatsby,git,github,githubactions,gitlab,heroku,html,idea,instagram,ipfs,java,js,jquery,linux,md,materialui,mongodb,mysql,netlify,nextjs,nginx,nodejs,php,postman,py,raspberrypi,regex,replit,stackoverflow,tailwind,twitter,vercel,visualstudio,vscode,wordpress&perline=16)
 
+[![Math Puzzle](https://stats.faisaln.com/pin/?username=faisalnjs&repo=Math-Puzzle)](https://github.com/faisalnjs/Math-Puzzle)
+[![Click Quick](https://stats.faisaln.com/pin/?username=faisalnjs&repo=Click-Quick)](https://github.com/faisalnjs/Click-Quick)
+[![Synthwave 2077](https://stats.faisaln.com/pin/?username=faisalnjs&repo=Synthwave-2077)](https://github.com/faisalnjs/Synthwave-2077)
+[![Java](https://stats.faisaln.com/pin/?username=faisalnjs&repo=java)](https://github.com/faisalnjs/java)
+
+
 ## My Statistics (GitHub Only)
 
-I do most closed-source enterprise programming on Gitlab. Click [here](https://gitlab.com/faisalnjs) to my contributions there.
+I do most major closed-source programming for enterprise on Gitlab. Click [here](https://gitlab.com/faisalnjs) to my contributions there.
 
 ![Faisal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=faisalnjs&theme=flag-india&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=5a2eca&stroke=FFFFFF&ring=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakLabel=FFFFFF)
 
@@ -22,15 +28,13 @@ I do most closed-source enterprise programming on Gitlab. Click [here](https://g
 
 ![Faisal's Trophys](https://github-profile-trophy.vercel.app/?username=faisalnjs&column=4&no-frame=true&margin-w=15&margin-h=15)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ## Profile Views
 
 ![Views Counter](https://profile-counter.glitch.me/faisalnjs/count.svg)
 
 ## GPG Key
 
-My latest GPG keys can be accessed via [GitHub](https://github.com/faisalnjs.gpg), [GitLab](https://gitlab.com/faisalnjs.gpg), or below:
+To verify if I authored a commit myself, you may compare the submitted private key to my public key to find authenticity. My latest GPG keys can be accessed via [GitHub](https://github.com/faisalnjs.gpg), [GitLab](https://gitlab.com/faisalnjs.gpg), or below:
 
 ```plaintext
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -83,3 +87,7 @@ f30lXsNmo1s5J5oMeg==
 =0WF0
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+## Extras
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
