@@ -12,6 +12,7 @@ Like my work? Consider [donating](https://www.buymeacoffee.com/faisaln)!
 [![Click Quick](https://stats.faisaln.com/pin/?username=faisalnjs&repo=Click-Quick)](https://github.com/faisalnjs/Click-Quick)
 [![Synthwave 2077](https://stats.faisaln.com/pin/?username=faisalnjs&repo=Synthwave-2077)](https://github.com/faisalnjs/Synthwave-2077)
 [![Java](https://stats.faisaln.com/pin/?username=faisalnjs&repo=java)](https://github.com/faisalnjs/java)
+[![SQL](https://stats.faisaln.com/pin/?username=faisalnjs&repo=SQL)](https://github.com/faisalnjs/SQL)
 
 
 ## My Statistics (GitHub Only)
@@ -26,7 +27,7 @@ I do most major closed-source programming for enterprise on Gitlab. Click [here]
 
 ![Faisal's Wakatime Stats](https://stats.faisaln.com/wakatime?username=faisalnjs&hide_border=true&custom_title=Faisal%20N's%20Recent%20Coding%20Activity&icon_color=ffffff&bg_color=30,5a2eca,33ccff&title_color=fff&text_color=fff&layout=compact)
 
-![Faisal's Trophiess](https://github-profile-trophy.vercel.app/?username=faisalnjs&column=4&no-frame=true&margin-w=15&margin-h=15)
+![Faisal's Trophies](https://github-profile-trophy.vercel.app/?username=faisalnjs&column=4&no-frame=true&margin-w=15&margin-h=15)
 
 ## Profile Views
 
