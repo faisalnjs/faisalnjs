@@ -15,6 +15,7 @@ Like my work? Consider [donating](https://www.buymeacoffee.com/faisaln)!
 [![Synthwave 2077](https://stats.faisaln.com/pin/?username=faisalnjs&repo=Synthwave-2077)](https://github.com/faisalnjs/Synthwave-2077)
 [![Java](https://stats.faisaln.com/pin/?username=faisalnjs&repo=java)](https://github.com/faisalnjs/java)
 [![SQL](https://stats.faisaln.com/pin/?username=faisalnjs&repo=SQL)](https://github.com/faisalnjs/SQL)
+[![Breast Cancer Research](https://stats.faisaln.com/pin/?username=faisalnjs&repo=Breast-Cancer-Research)](https://github.com/faisalnjs/Breast-Cancer-Research)
 
 
 ## My Statistics (GitHub Only)
