@@ -10,15 +10,6 @@ Like my work? Consider [donating](https://www.buymeacoffee.com/faisaln)!
 
 ![Faisal's Skills](https://skillicons.dev/icons?i=atom,azure,bootstrap,cpp,cloudflare,codepen,css,devto,discord,bots,express,figma,firebase,gatsby,git,github,githubactions,gitlab,heroku,html,idea,instagram,ipfs,java,js,jquery,linux,md,materialui,mongodb,mysql,netlify,nextjs,nginx,nodejs,php,postman,py,raspberrypi,regex,replit,stackoverflow,tailwind,twitter,vercel,visualstudio,vscode,wordpress&perline=16)
 
-{::comment}
-[![Math Puzzle](https://stats.faisaln.com/pin/?username=faisalnjs&repo=Math-Puzzle)](https://github.com/faisalnjs/Math-Puzzle)
-[![Click Quick](https://stats.faisaln.com/pin/?username=faisalnjs&repo=Click-Quick)](https://github.com/faisalnjs/Click-Quick)
-[![Synthwave 2077](https://stats.faisaln.com/pin/?username=faisalnjs&repo=Synthwave-2077)](https://github.com/faisalnjs/Synthwave-2077)
-[![Java](https://stats.faisaln.com/pin/?username=faisalnjs&repo=java)](https://github.com/faisalnjs/java)
-[![SQL](https://stats.faisaln.com/pin/?username=faisalnjs&repo=SQL)](https://github.com/faisalnjs/SQL)
-[![Breast Cancer Research](https://stats.faisaln.com/pin/?username=faisalnjs&repo=Breast-Cancer-Research)](https://github.com/faisalnjs/Breast-Cancer-Research)
-{:/comment}
-
 ## My Statistics (GitHub Only)
 
 I do most major closed-source programming for enterprise on Gitlab. Click [here](https://gitlab.com/faisalnjs) to my contributions there.
