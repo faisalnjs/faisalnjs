@@ -18,11 +18,7 @@ I do most major closed-source programming for enterprise on Gitlab. Click [here]
 
 ![Faisal's GitHub Stats](https://stats.faisaln.com/?username=faisalnjs&show_icons=true&hide_border=true&icon_color=ffffff&bg_color=30,5a2eca,33ccff&title_color=fff&text_color=fff&card_width=495px)
 
-![Faisal's Top Langs](https://stats.faisaln.com/top-langs/?username=faisalnjs&text_size=1000px&card_width=495px&hide_border=true&langs_count=10&custom_title=Faisal%20N's%20Recently%20Used%20Languages&bg_color=30,5a2eca,33ccff&title_color=fff&text_color=fff)
-
 ![Faisal's Wakatime Stats](https://stats.faisaln.com/wakatime?username=faisalnjs&hide_border=true&custom_title=Faisal%20N's%20Recent%20Coding%20Activity&icon_color=ffffff&bg_color=30,5a2eca,33ccff&title_color=fff&text_color=fff&layout=compact)
-
-![Faisal's Trophies](https://github-profile-trophy.vercel.app/?username=faisalnjs&column=4&no-frame=true&margin-w=15&margin-h=15)
 
 ## Profile Views
 
