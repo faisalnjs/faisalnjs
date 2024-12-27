@@ -6,7 +6,7 @@ Like my work? Consider [donating](https://www.buymeacoffee.com/faisaln)!
 
 [![Discord Status](https://discord.c99.nl/widget/theme-4/905990944858451988.png)](https://discord.gg/5djHSwTfSX)
 
-![Faisal's Skills](https://skillicons.dev/icons?i=atom,azure,bootstrap,cpp,cloudflare,codepen,css,devto,discord,bots,express,figma,firebase,gatsby,git,github,githubactions,gitlab,heroku,html,idea,instagram,ipfs,java,js,jquery,linux,md,materialui,mongodb,mysql,netlify,nextjs,nginx,nodejs,php,postman,py,raspberrypi,regex,replit,stackoverflow,tailwind,twitter,vercel,visualstudio,vscode,wordpress&perline=16)
+![Faisal's Skills](https://skillicons.dev/icons?i=apollo,apple,atom,azure,bitbucket,bootstrap,bots,cloudflare,codepen,cpp,css,debian,devto,discord,discordjs,docker,express,figma,firebase,gatsby,gcp,git,github,githubactions,gitlab,gmail,graphql,heroku,html,idea,ipfs,java,jquery,js,latex,linux,materialui,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,npm,php,pnpm,postman,py,raspberrypi,regex,replit,robloxstudio,sqlite,stackoverflow,tailwind,twitter,ubuntu,vercel,visualstudio,vscode,windows,wordpress,workers&perline=16)
 
 ## My Statistics (GitHub Only)
 
