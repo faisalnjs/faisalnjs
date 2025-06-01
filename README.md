@@ -20,7 +20,7 @@ I do most major closed-source programming for enterprise on Gitlab. Click [here]
 
 ## Profile Views
 
-![Views Counter](https://profile-counter.glitch.me/faisalnjs/count.svg)
+![Views Counter](https://faisaln.com/count.svg)
 
 ## GPG Key
 
