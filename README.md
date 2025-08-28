@@ -22,10 +22,25 @@ I do most major closed-source programming for enterprise on Gitlab. Click [here]
 
 ![Views Counter](https://faisaln.com/count.svg)
 
-## GPG Key
+## GPG Keys
 
-To verify if I authored a commit myself, you may compare the submitted private key to my public key to find authenticity. My latest GPG keys can be accessed via [GitHub](https://github.com/faisalnjs.gpg), [GitLab](https://gitlab.com/faisalnjs.gpg), or below:
+To verify if I authored a commit myself, you may compare the submitted private key to my public key(s) to find authenticity. My latest GPG keys can be accessed via [GitHub](https://github.com/faisalnjs.gpg), [GitLab](https://gitlab.com/faisalnjs.gpg), or below:
 
+```plaintext
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mDMEaK+1thYJKwYBBAHaRw8BAQdAalFUpBwNFdPoUsOKu/NwZkXpkgFLNTaOgjcz
+eCDsL/u0K0ZhaXNhbCBOIChGYWlzYWwtUlBJKSA8Y29udGFjdEBmYWlzYWxuLmNv
+bT6IkwQTFgoAOxYhBDnU9TWC0N8wohjH+Zh0hCnmI69vBQJor7W2AhsDBQsJCAcC
+AiICBhUKCQgLAgQWAgMBAh4HAheAAAoJEJh0hCnmI69vX7QA/3jOT0YQ9B3YSe1q
+YlCmOTj/FkexyeZDQLckPHmB4pPrAQDJzjGhLp1mlqNu7mNX4b9IEbI/z2RodYDa
+ZDjPNIXpDrg4BGivtbYSCisGAQQBl1UBBQEBB0BqGd3NWt5NLI9RdJaaoGFeEbts
+VnnpN+HT9UkyuwkhNQMBCAeIeAQYFgoAIBYhBDnU9TWC0N8wohjH+Zh0hCnmI69v
+BQJor7W2AhsMAAoJEJh0hCnmI69vMBEBAP8PWxRkVBk9By7Vq+AxVdfeR9eSZAjP
+a/4D37oOZLv0AQCHSEtpCQyFOdEkUxXX9P/7uk8snhZIaZiW3mnLo64+Dg==
+=e7Wf
+-----END PGP PUBLIC KEY BLOCK-----
+```
 ```plaintext
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
