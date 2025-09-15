@@ -1,6 +1,6 @@
 ![Faisal's Bento](bento2.png)
 
-![👋 Hi, I’m Faisal!](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=6851F7&vCenter=true&random=false&width=500&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Faisal!;1%EF%B8%8F%E2%83%A3+Websites;2%EF%B8%8F%E2%83%A3+Apps;3%EF%B8%8F%E2%83%A3+Bots;4%EF%B8%8F%E2%83%A3+Games;%F0%9F%8C%8E+%40faisaln;%F0%9F%94%97+faisaln.com)
+![👋 Hi, I’m Faisal!](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=6851F7&vCenter=true&random=false&width=500&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Faisal!;💻+Websites;📦+Apps;🤖+Bots;🎮+Games;%F0%9F%8C%8E+%40faisaln;%F0%9F%94%97+faisaln.com)
 
 Like my work? Consider [donating](https://www.buymeacoffee.com/faisaln)!
 
