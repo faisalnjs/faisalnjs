@@ -12,7 +12,7 @@ Like my work? Consider [donating](https://www.buymeacoffee.com/faisaln)!
 
 ## My Statistics (GitHub Only)
 
-I do most major closed-source programming for enterprise on Gitlab. Click [here](https://gitlab.com/faisalnjs) to my contributions there.
+I do most major closed-source programming for enterprise on GitLab. Click [here](https://gitlab.com/faisalnjs) to my contributions there.
 
 ![Faisal's GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=faisalnjs&theme=flag-india&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=5a2eca&stroke=FFFFFF&ring=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&fire=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakLabel=FFFFFF)
 
