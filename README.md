@@ -4,7 +4,7 @@
 
 [![About Me](/button-about-me.png)](https://faisaln.com/)&nbsp;&nbsp;[![Portfolio](/button-portfolio.png)](https://faisaln.com/portfolio)&nbsp;&nbsp;[![Resume](/button-resume.png)](https://faisaln.com/resume)&nbsp;&nbsp;[![Commissions](/button-commissions.png)](https://faisaln.com/commissions)&nbsp;&nbsp;[![Repositories](/button-repositories.png)](https://faisaln.com/repositories)&nbsp;&nbsp;[![Donate](/button-donate.png)](https://buymeacoffee.com/faisaln)
 
-Like my work? Consider [donating](https://www.buymeacoffee.com/faisaln)!
+Like my work? Consider [donating](https://www.buymeacoffee.com/faisaln) to help!
 
 [![Discord Status](https://discord.c99.nl/widget/theme-4/905990944858451988.png)](https://discord.gg/5djHSwTfSX)
 
