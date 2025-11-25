@@ -6,7 +6,7 @@
 
 Like my work? Consider [donating](https://www.buymeacoffee.com/faisaln) to help!
 
-[![Discord Status](https://discord.c99.nl/widget/theme-4/905990944858451988.png)](https://discord.gg/5djHSwTfSX)
+[![Discord Status](https://lanyard.kyrie25.dev/api/905990944858451988?showBanner=animated&bg=201337&idleMessage=faisaln.com&showDisplayName=true&animatedDecoration=true&gradient=ff00ee-00fff6&forceGradient=true&waveColor=161616&waveSpotifyColor=161616)](https://discord.gg/5djHSwTfSX)
 
 ![Faisal's Skills](https://skillicons.dev/icons?i=apollo,apple,atom,azure,bitbucket,bootstrap,bots,cloudflare,codepen,cpp,css,debian,devto,discord,discordjs,docker,express,figma,firebase,gatsby,gcp,git,github,githubactions,gitlab,gmail,graphql,heroku,html,idea,ipfs,java,jquery,js,latex,linux,materialui,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,npm,php,pnpm,postman,py,raspberrypi,regex,replit,robloxstudio,sqlite,stackoverflow,tailwind,twitter,ubuntu,vercel,visualstudio,vscode,windows,wordpress,workers&perline=16)
 
