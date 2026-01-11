@@ -22,10 +22,10 @@
   [![About Me](/button-about-me.png)](https://faisaln.com/)&nbsp;&nbsp;[![Portfolio](/button-portfolio.png)](https://faisaln.com/portfolio)&nbsp;&nbsp;[![Resume](/button-resume.png)](https://faisaln.com/resume)<br>
   [![Commissions](/button-commissions.png)](https://faisaln.com/commissions)&nbsp;&nbsp;[![Repositories](/button-repositories.png)](https://faisaln.com/repositories)&nbsp;&nbsp;[![Donate](/button-donate.png)](https://buymeacoffee.com/faisaln)
   
-  [![Discord Status](https://lanyard.kyrie25.dev/api/905990944858451988?showBanner=animated&bg=201337&idleMessage=faisaln.com&showDisplayName=true&animatedDecoration=true&gradient=ff00ee-00fff6&forceGradient=true&waveColor=161616&waveSpotifyColor=161616)](https://discord.gg/5djHSwTfSX)
-  
   [![Faisal's Skills](https://skillicons.dev/icons?i=apollo,apple,atom,azure,bitbucket,bootstrap,bots,cloudflare,codepen,cpp,css,debian,devto,discord,discordjs,docker,express,figma,firebase,gatsby,gcp,git,github,githubactions,gitlab,gmail,graphql,heroku,html,idea,ipfs,java,jquery,js,latex,linux,materialui,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,npm,php,pnpm,postman,py,raspberrypi,regex,replit,robloxstudio,sqlite,stackoverflow,tailwind,twitter,ubuntu,vercel,visualstudio,vscode,windows,wordpress,workers&perline=16)](https://faisaln.com/)
-  
+  <details>
+  <summary>My Statistics (GitHub Only)</summary>
+
   ## My Statistics (GitHub Only)
   
   I do most major closed-source programming for enterprise on GitLab. Click [here](https://gitlab.com/faisalnjs) to my contributions there.
@@ -35,11 +35,15 @@
   [![Faisal's GitHub Stats](https://stats.faisaln.com/?username=faisalnjs&show_icons=true&hide_border=true&icon_color=ffffff&bg_color=30,5a2eca,33ccff&title_color=fff&text_color=fff&card_width=495px)](https://faisaln.com/)
   
   [![Faisal's Wakatime Stats](https://stats.faisaln.com/wakatime?username=faisalnjs&hide_border=true&custom_title=Faisal%20N's%20Recent%20Coding%20Activity&icon_color=ffffff&bg_color=30,5a2eca,33ccff&title_color=fff&text_color=fff&layout=compact)](https://faisaln.com/)
-    
+  </details>
+
+  <details>
+  <summary>GPG Keys</summary>
+
   ## GPG Keys
   
   To verify if I authored a commit myself, you may compare the submitted private key to my public key(s) to find authenticity. My latest GPG keys can be accessed via [GitHub](https://github.com/faisalnjs.gpg), [GitLab](https://gitlab.com/faisalnjs.gpg), or below:
-  
+    
   ```plaintext
   -----BEGIN PGP PUBLIC KEY BLOCK-----
   
@@ -106,8 +110,15 @@
   =0WF0
   -----END PGP PUBLIC KEY BLOCK-----
   ```
+  </details>
+  
+  <details>
+  <summary>Extras</summary>
   
   ## Extras
   
+  [![Discord Status](https://lanyard.kyrie25.dev/api/905990944858451988?showBanner=animated&bg=201337&idleMessage=faisaln.com&showDisplayName=true&animatedDecoration=true&gradient=ff00ee-00fff6&forceGradient=true&waveColor=161616&waveSpotifyColor=161616)](https://discord.gg/5djHSwTfSX)
+  
   [![Jokes Card](https://readme-jokes.vercel.app/api)](https://faisaln.com/)
+  </details>
 </div>
