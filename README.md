@@ -7,9 +7,9 @@
 
   Slowly changing the 🌐 for the better :)
   
-  Maintaining [`@folsom`](https://github.com/atfolsom) · [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders)
+  Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders)
   
-  Previously [`Breast-Cancer-Research`](https://github.com/faisalnjs/Breast-Cancer-Research) · [`Southern-Bell`](https://github.com/faisalnjs/Southern-Bell) · [`VEX-Robotics`](https://github.com/faisalnjs/VEX-Robotics) & more
+  Previously [`@folsom`](https://github.com/atfolsom) · [`Breast-Cancer-Research`](https://github.com/faisalnjs/Breast-Cancer-Research) · [`Southern-Bell`](https://github.com/faisalnjs/Southern-Bell) · [`VEX-Robotics`](https://github.com/faisalnjs/VEX-Robotics) & more
 
   [![Views Counter](https://faisaln.com/count.svg)](https://faisaln.com/)
 
