@@ -10,8 +10,23 @@
   Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/dangoWeb/CDN) · [`LENS*`](https://github.com/LENSAuth/LENS) & more
   
   Previously [`@folsom*`](https://github.com/atfolsom) · [`Breast-Cancer-Research`](https://github.com/faisalnjs/Breast-Cancer-Research) · [`Southern-Bell`](https://github.com/faisalnjs/Southern-Bell) · [`VEX-Robotics`](https://github.com/faisalnjs/VEX-Robotics) & more
-  
-  Upcoming [`MultiSiteWideSearch`](https://github.com/faisalnjs/MultiSiteWideSearch) · [`subscripts`](https://github.com/faisalnjs/subscripts) · [`super-spinup`](https://github.com/faisalnjs/super-spinup) · [`VSQuantum`](https://github.com/faisalnjs/VSQuantum) · [`script-setup`](https://github.com/faisalnjs/script-setup) · [`auxman`](https://github.com/faisalnjs/auxman) · [`RAPID`](https://github.com/faisalnjs/RAPID) · [`mailman`](https://github.com/DangoWeb/mailman) · [`Roundcube-SSO`](https://github.com/DangoWeb/Roundcube-SSO) · [`fire-prevention`](https://github.com/DangoWeb/fire-prevention) · [`THRUNET*`](https://github.com/LENSAuth/THRUNET) & more
+
+  Upcoming
+  Repository | ETA
+  :--- | :---
+  [`InjectElement*`](https://github.com/faisalnjs/InjectElement) | 2026
+  [`THRUNET*`](https://github.com/LENSAuth/THRUNET) | 2026
+  [`MultiSiteWideSearch`](https://github.com/faisalnjs/MultiSiteWideSearch) | 2026
+  [`mailman`](https://github.com/DangoWeb/mailman) | 2027
+  [`Roundcube-SSO`](https://github.com/DangoWeb/Roundcube-SSO) | 2027
+  [`subscripts`](https://github.com/faisalnjs/subscripts) | 2027
+  [`super-spinup`](https://github.com/faisalnjs/super-spinup) | 2027
+  [`VSQuantum`](https://github.com/faisalnjs/VSQuantum) | 2027
+  [`script-setup`](https://github.com/faisalnjs/script-setup) | 2027
+  [`RAPID`](https://github.com/faisalnjs/RAPID) | 2027
+  [`auxman`](https://github.com/faisalnjs/auxman) | 2027
+  [`fire-prevention`](https://github.com/DangoWeb/fire-prevention) | 2027
+  & more
 
   [![Views Counter](https://faisaln.com/count.svg)](https://faisaln.com/)
 
