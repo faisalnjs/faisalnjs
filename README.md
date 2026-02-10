@@ -7,13 +7,15 @@
 
   Slowly changing the 🌐 for the better :)
   
-  Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders)
+  Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/dangoWeb/CDN) · [`LENS*`](https://github.com/LENSAuth/LENS) & more
   
-  Previously [`@folsom`](https://github.com/atfolsom) · [`Breast-Cancer-Research`](https://github.com/faisalnjs/Breast-Cancer-Research) · [`Southern-Bell`](https://github.com/faisalnjs/Southern-Bell) · [`VEX-Robotics`](https://github.com/faisalnjs/VEX-Robotics) & more
+  Previously [`@folsom*`](https://github.com/atfolsom) · [`Breast-Cancer-Research`](https://github.com/faisalnjs/Breast-Cancer-Research) · [`Southern-Bell`](https://github.com/faisalnjs/Southern-Bell) · [`VEX-Robotics`](https://github.com/faisalnjs/VEX-Robotics) & more
+  
+  Upcoming [`MultiSiteWideSearch`](https://github.com/faisalnjs/MultiSiteWideSearch) · [`subscripts`](https://github.com/faisalnjs/subscripts) · [`super-spinup`](https://github.com/faisalnjs/super-spinup) · [`VSQuantum`](https://github.com/faisalnjs/VSQuantum) · [`script-setup`](https://github.com/faisalnjs/script-setup) · [`auxman`](https://github.com/faisalnjs/auxman) · [`RAPID`](https://github.com/faisalnjs/RAPID) · [`mailman`](https://github.com/DangoWeb/mailman) · [`Roundcube-SSO`](https://github.com/DangoWeb/Roundcube-SSO) · [`fire-prevention`](https://github.com/DangoWeb/fire-prevention) · [`THRUNET*`](https://github.com/LENSAuth/THRUNET) & more
 
   [![Views Counter](https://faisaln.com/count.svg)](https://faisaln.com/)
 
-  \* private active repos (APIs or unreleased)
+  \* private repos (APIs or unreleased)
 
   [<img src="bento2.png" alt="Faisal's Bento" />](https://faisaln.com/)
 
