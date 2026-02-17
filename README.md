@@ -7,7 +7,7 @@
 
   Slowly changing the 🌐 for the better :)
   
-  Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`LENS*`](https://github.com/LENSAuth/LENS) & more
+  Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`LENS*`](https://github.com/LENSAuth/LENS) · [`EncryptoS`](https://github.com/faisalnjs/EncryptoS) & more
   
   Previously [`@folsom*`](https://github.com/atfolsom) · [`Breast-Cancer-Research`](https://github.com/faisalnjs/Breast-Cancer-Research) · [`Southern-Bell`](https://github.com/faisalnjs/Southern-Bell) · [`VEX-Robotics`](https://github.com/faisalnjs/VEX-Robotics) & more
 
@@ -17,12 +17,11 @@
 
   Repository | ETA
   :--- | :---
-  [`encryptos`](https://github.com/faisalnjs/encryptos) | February 2026
   [`InjectElement*`](https://github.com/faisalnjs/InjectElement) | February 2026
   [`THRUNET*`](https://github.com/LENSAuth/THRUNET) | 2026
   [`MultiSiteWideSearch`](https://github.com/faisalnjs/MultiSiteWideSearch) | 2026
-  [`mailman`](https://github.com/DangoWeb/mailman) | 2027
-  [`Roundcube-SSO`](https://github.com/DangoWeb/Roundcube-SSO) | 2027
+  [`mailman`](https://github.com/DangoWeb/mailman) | 2026
+  [`Roundcube-SSO`](https://github.com/DangoWeb/Roundcube-SSO) | 2026
   [`subscripts`](https://github.com/faisalnjs/subscripts) | 2027
   [`super-spinup`](https://github.com/faisalnjs/super-spinup) | 2027
   [`VSQuantum`](https://github.com/faisalnjs/VSQuantum) | 2027
