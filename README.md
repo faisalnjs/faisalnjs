@@ -17,7 +17,7 @@
 
   Repository | ETA
   :--- | :---
-  [`Verify-RCSID`](https://github.com/faisalnjs/Verify-RCSID) | February 2026
+  [`Verify-RCSID*`](https://github.com/faisalnjs/Verify-RCSID) | February 2026
   [`InjectElement*`](https://github.com/faisalnjs/InjectElement) | February 2026
   [`THRUNET*`](https://github.com/LENSAuth/THRUNET) | 2026
   [`MultiSiteWideSearch`](https://github.com/faisalnjs/MultiSiteWideSearch) | 2026
