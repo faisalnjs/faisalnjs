@@ -7,7 +7,7 @@
 
   Slowly changing the 🌐 for the better :)
   
-  Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) · [`space@folsom*`](https://github.com/atfolsom/space) · [`apis@folsom*`](https://github.com/atfolsom/apis) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`LENS*`](https://github.com/LENSAuth/LENS) · [`EncryptoS`](https://github.com/faisalnjs/EncryptoS) & more
+  Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) · [`space@folsom*`](https://github.com/atfolsom/space) · [`apis@folsom*`](https://github.com/atfolsom/apis) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`LENS*`](https://github.com/LENSAuth/LENS) · [`EncryptoS`](https://github.com/faisalnjs/EncryptoS) · [`Verify-RCSID*`](https://github.com/faisalnjs/Verify-RCSID) & more
   
   Previously [`Breast-Cancer-Research`](https://github.com/faisalnjs/Breast-Cancer-Research) · [`Southern-Bell`](https://github.com/faisalnjs/Southern-Bell) · [`VEX-Robotics`](https://github.com/faisalnjs/VEX-Robotics) & more
 
@@ -17,7 +17,6 @@
 
   Repository | ETA
   :--- | :---
-  [`Verify-RCSID*`](https://github.com/faisalnjs/Verify-RCSID) | February 2026
   [`InjectElement*`](https://github.com/faisalnjs/InjectElement) | February 2026
   [`THRUNET*`](https://github.com/LENSAuth/THRUNET) | 2026
   [`MultiSiteWideSearch`](https://github.com/faisalnjs/MultiSiteWideSearch) | 2026
