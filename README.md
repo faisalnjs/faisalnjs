@@ -23,6 +23,7 @@
   [`MultiSiteWideSearch`](https://github.com/faisalnjs/MultiSiteWideSearch) | 2026
   [`mailman`](https://github.com/DangoWeb/mailman) | 2026
   [`Roundcube-SSO`](https://github.com/DangoWeb/Roundcube-SSO) | 2026
+  [`Express-EJS-Static`](https://github.com/DangoWeb/Express-EJS-Static) | 2026
   [`subscripts`](https://github.com/faisalnjs/subscripts) | 2027
   [`super-spinup`](https://github.com/faisalnjs/super-spinup) | 2027
   [`VSQuantum`](https://github.com/faisalnjs/VSQuantum) | 2027
