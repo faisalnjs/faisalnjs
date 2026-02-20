@@ -7,7 +7,9 @@
 
   Slowly changing the 🌐 for the better :)
   
-  Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) · [`space@folsom*`](https://github.com/atfolsom/space) · [`apis@folsom*`](https://github.com/atfolsom/apis) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`LENS*`](https://github.com/LENSAuth/LENS) · [`EncryptoS`](https://github.com/faisalnjs/EncryptoS) · [`Verify-RCSID*`](https://github.com/faisalnjs/Verify-RCSID) & more
+  Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`EncryptoS`](https://github.com/faisalnjs/EncryptoS) & more
+
+  Maintaining Closed-Source [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) · [`LENS*`](https://github.com/LENSAuth/LENS) · [`space@folsom*`](https://github.com/atfolsom/space) · [`apis@folsom*`](https://github.com/atfolsom/apis) · [`Verify-RCSID*`](https://github.com/faisalnjs/Verify-RCSID) & more
   
   Previously [`Breast-Cancer-Research`](https://github.com/faisalnjs/Breast-Cancer-Research) · [`Southern-Bell`](https://github.com/faisalnjs/Southern-Bell) · [`VEX-Robotics`](https://github.com/faisalnjs/VEX-Robotics) & more
 
@@ -23,6 +25,7 @@
   [`mailman`](https://github.com/DangoWeb/mailman) | 2026
   [`Roundcube-SSO`](https://github.com/DangoWeb/Roundcube-SSO) | 2026
   [`Express-EJS-Static`](https://github.com/DangoWeb/Express-EJS-Static) | 2026
+  [`Express-Sitemap`](https://github.com/DangoWeb/Express-Sitemap) | 2026
   [`subscripts`](https://github.com/faisalnjs/subscripts) | 2027
   [`super-spinup`](https://github.com/faisalnjs/super-spinup) | 2027
   [`VSQuantum`](https://github.com/faisalnjs/VSQuantum) | 2027
@@ -35,7 +38,7 @@
 
   [![Views Counter](https://faisaln.com/count.svg)](https://faisaln.com/)
 
-  \* private repos (APIs or unreleased)
+  \* private repos (APIs, unreleased, commercial, or closed-source)
 
   [<img src="bento2.png" alt="Faisal's Bento" />](https://faisaln.com/)
 
