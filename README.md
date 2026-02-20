@@ -6,15 +6,34 @@
   Full Stack Web Developer
 
   Slowly changing the 🌐 for the better :)
+
+  <br />
+
+  You may know me from some of my works:
   
   Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`EncryptoS`](https://github.com/faisalnjs/EncryptoS) & more
 
-  Maintaining Closed-Source [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) · [`LENS*`](https://github.com/LENSAuth/LENS) · [`space@folsom*`](https://github.com/atfolsom/space) · [`apis@folsom*`](https://github.com/atfolsom/apis) · [`Verify-RCSID*`](https://github.com/faisalnjs/Verify-RCSID) & more
-  
-  Previously [`Breast-Cancer-Research`](https://github.com/faisalnjs/Breast-Cancer-Research) · [`Southern-Bell`](https://github.com/faisalnjs/Southern-Bell) · [`VEX-Robotics`](https://github.com/faisalnjs/VEX-Robotics) & more
+  Previously [`Breast-Cancer-Research`](https://github.com/faisalnjs/Breast-Cancer-Research) · [`Southern-Bell`](https://github.com/faisalnjs/Southern-Bell) · [`VEX-Robotics`](https://github.com/faisalnjs/VEX-Robotics) · [`AVR`](https://github.com/faisalnjs/AVR) · [`SQL`](https://github.com/faisalnjs/SQL) · [`java`](https://github.com/faisalnjs/java) · [`Click-Quick`](https://github.com/faisalnjs/Click-Quick) & more
 
   <details>
-  <summary>Upcoming</summary>
+  <summary>Maintaining Closed-Source (8)</summary>
+  <br />
+
+  Repository | Reason
+  :--- | :---
+  [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) | API
+  [`LENS*`](https://github.com/LENSAuth/LENS) | Security
+  [`space@folsom*`](https://github.com/atfolsom/space) | Invite-only
+  [`apis@folsom*`](https://github.com/atfolsom/apis) | API
+  [`RPI-CS-1200*`](https://github.com/faisalnjs/RPI-CS-1200) | Active course
+  [`PAI*`](https://github.com/faisalnjs/PAI) | Personal
+  [`RPI-Global-Address-List*`](https://github.com/faisalnjs/RPI-Global-Address-List) | Security
+  [`Verify-RCSID*`](https://github.com/faisalnjs/Verify-RCSID) | Security
+  & more
+  </details>
+
+  <details>
+  <summary>Upcoming (15)</summary>
   <br />
 
   Repository | ETA
@@ -31,14 +50,33 @@
   [`VSQuantum`](https://github.com/faisalnjs/VSQuantum) | 2027
   [`script-setup`](https://github.com/faisalnjs/script-setup) | 2027
   [`RAPID`](https://github.com/faisalnjs/RAPID) | 2027
+  [`RAPIDs`](https://github.com/faisalnjs/RAPIDs) | 2027
   [`auxman`](https://github.com/faisalnjs/auxman) | 2027
   [`fire-prevention`](https://github.com/DangoWeb/fire-prevention) | 2027
   & more
-  </details>
-
-  [![Views Counter](https://faisaln.com/count.svg)](https://faisaln.com/)
 
   \* private repos (APIs, unreleased, commercial, or closed-source)
+  </details>
+
+  <details>
+  <summary>Idle (5)</summary>
+  <br />
+
+  Repository | Since
+  :--- | :---
+  [`prefill-registration`](https://github.com/faisalnjs/prefill-registration) | November 2025
+  [`core`](https://github.com/faisalnjs/core) | September 2024
+  [`Synthwave-2077`](https://github.com/faisalnjs/Synthwave-2077) | April 2024
+  [`Math-Puzzle`](https://github.com/faisalnjs/Math-Puzzle) | September 2023
+  [`VSCHSD-Student-Forum*`](https://github.com/faisalnjs/VSCHSD-Student-Forum) | June 2023
+  & more
+
+  \* private repos (APIs, unreleased, commercial, or closed-source)
+  </details>
+
+  <br />
+
+  [![Views Counter](https://faisaln.com/count.svg)](https://faisaln.com/)
 
   [<img src="bento2.png" alt="Faisal's Bento" />](https://faisaln.com/)
 
