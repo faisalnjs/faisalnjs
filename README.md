@@ -76,7 +76,7 @@
 
   [![Views Counter](https://faisaln.com/count.svg)](https://faisaln.com/)
 
-  [<img src="bento2.png" alt="Faisal's Bento" />](https://faisaln.com/)
+  [<img src="bento-rounded2.png" alt="Faisal's Bento" />](https://faisaln.com/)
 
   <!-- [![👋 Hi, I’m Faisal!](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=6851F7&vCenter=true&random=false&width=500&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Faisal!;💻+Websites;📦+Apps;🤖+Bots;🎮+Games;%F0%9F%8C%8E+%40faisaln;%F0%9F%94%97+faisaln.com)](https://faisaln.com/) -->
   
