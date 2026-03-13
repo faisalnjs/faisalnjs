@@ -36,7 +36,7 @@
 
   Repository | ETA
   :--- | :---
-  [`InjectElement*`](https://github.com/faisalnjs/InjectElement) | February 2026
+  [`InjectElement*`](https://github.com/faisalnjs/InjectElement) | March 2026
   [`THRUNET*`](https://github.com/LENSAuth/THRUNET) | 2026
   [`MultiSiteWideSearch`](https://github.com/faisalnjs/MultiSiteWideSearch) | 2026
   [`mailman`](https://github.com/DangoWeb/mailman) | 2026
