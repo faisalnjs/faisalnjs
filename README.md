@@ -31,7 +31,7 @@
   </details>
 
   <details>
-  <summary>Upcoming (15)</summary>
+  <summary>Upcoming (16)</summary>
   <br />
 
   Repository | ETA
