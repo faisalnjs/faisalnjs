@@ -51,6 +51,7 @@
   [`RAPIDs`](https://github.com/faisalnjs/RAPIDs) | 2027
   [`auxman`](https://github.com/faisalnjs/auxman) | 2027
   [`fire-prevention`](https://github.com/DangoWeb/fire-prevention) | 2027
+  [`armn`](https://github.com/faisalnjs/arm) | 2027
   & more
 
   \* private repos (APIs, unreleased, commercial, or closed-source)
