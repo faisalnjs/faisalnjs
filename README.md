@@ -9,7 +9,7 @@
 
   You may know me from some of my works:
   
-  Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`EncryptoS`](https://github.com/faisalnjs/EncryptoS) & more
+  Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`EncryptoS`](https://github.com/faisalnjs/EncryptoS) · [`prefill-registration`](https://github.com/faisalnjs/prefill-registration) & more
 
   Previously [`Breast-Cancer-Research`](https://github.com/faisalnjs/Breast-Cancer-Research) · [`Southern-Bell`](https://github.com/faisalnjs/Southern-Bell) · [`VEX-Robotics`](https://github.com/faisalnjs/VEX-Robotics) · [`AVR`](https://github.com/faisalnjs/AVR) · [`SQL`](https://github.com/faisalnjs/SQL) · [`java`](https://github.com/faisalnjs/java) · [`Click-Quick`](https://github.com/faisalnjs/Click-Quick) · [`HackRPI-Worst-UI`](https://github.com/faisalnjs/HackRPI-Worst-UI) & more
 
@@ -63,7 +63,6 @@
 
   Repository | Since
   :--- | :---
-  [`prefill-registration`](https://github.com/faisalnjs/prefill-registration) | November 2025
   [`core`](https://github.com/faisalnjs/core) | September 2024
   [`Synthwave-2077`](https://github.com/faisalnjs/Synthwave-2077) | April 2024
   [`Math-Puzzle`](https://github.com/faisalnjs/Math-Puzzle) | September 2023
