@@ -23,10 +23,10 @@
   [`LENS*`](https://github.com/LENSAuth/LENS) | Security
   [`space@folsom*`](https://github.com/atfolsom/space) | Invite-only
   [`apis@folsom*`](https://github.com/atfolsom/apis) | API
-  [`RPI-CS-1200*`](https://github.com/faisalnjs/RPI-CS-1200) | Active course
   [`PAI*`](https://github.com/faisalnjs/PAI) | Personal
   [`RPI-Global-Address-List*`](https://github.com/faisalnjs/RPI-Global-Address-List) | Security
   [`Verify-RCSID*`](https://github.com/faisalnjs/Verify-RCSID) | Security
+  [`InjectElement*`](https://github.com/faisalnjs/InjectElement) | Personal
   & more
   </details>
 
@@ -36,7 +36,7 @@
 
   Repository | ETA
   :--- | :---
-  [`InjectElement*`](https://github.com/faisalnjs/InjectElement) | March 2026
+  [`hws*`](https://github.com/faisalnjs/hws) | May 2026
   [`THRUNET*`](https://github.com/LENSAuth/THRUNET) | 2026
   [`MultiSiteWideSearch`](https://github.com/faisalnjs/MultiSiteWideSearch) | 2026
   [`mailman`](https://github.com/DangoWeb/mailman) | 2026
@@ -51,7 +51,7 @@
   [`RAPIDs`](https://github.com/faisalnjs/RAPIDs) | 2027
   [`auxman`](https://github.com/faisalnjs/auxman) | 2027
   [`fire-prevention`](https://github.com/DangoWeb/fire-prevention) | 2027
-  [`armn`](https://github.com/faisalnjs/arm) | 2027
+  [`arm`](https://github.com/faisalnjs/arm) | 2027
   [`BulletCDN`](https://github.com/faisalnjs/BulletCDN) | 2027
   & more
 
@@ -64,6 +64,7 @@
 
   Repository | Since
   :--- | :---
+  [`RPI-CS-1200`](https://github.com/faisalnjs/RPI-CS-1200) | May 2026
   [`core`](https://github.com/faisalnjs/core) | September 2024
   [`Synthwave-2077`](https://github.com/faisalnjs/Synthwave-2077) | April 2024
   [`Math-Puzzle`](https://github.com/faisalnjs/Math-Puzzle) | September 2023
