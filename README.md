@@ -9,9 +9,9 @@
 
   You may know me from some of my works:
   
-  Actively Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) & more
+  Actively Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker)
   
-  Passively Maintaining [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`EncryptoS`](https://github.com/faisalnjs/EncryptoS) · [`prefill-registration`](https://github.com/faisalnjs/prefill-registration) & more
+  [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`EncryptoS`](https://github.com/faisalnjs/EncryptoS) · [`prefill-registration`](https://github.com/faisalnjs/prefill-registration) & more
 
   <details>
   <summary>Maintaining Closed-Source (7)</summary>
