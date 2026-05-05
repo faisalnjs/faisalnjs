@@ -9,10 +9,12 @@
 
   You may know me from some of my works:
   
-  Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`EncryptoS`](https://github.com/faisalnjs/EncryptoS) · [`prefill-registration`](https://github.com/faisalnjs/prefill-registration) & more
+  Actively Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker) & more
+  
+  Passively Maintaining [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`EncryptoS`](https://github.com/faisalnjs/EncryptoS) · [`prefill-registration`](https://github.com/faisalnjs/prefill-registration) & more
 
   <details>
-  <summary>Maintaining Closed-Source (8)</summary>
+  <summary>Maintaining Closed-Source (7)</summary>
   <br />
 
   Repository | Reason
@@ -21,11 +23,12 @@
   [`LENS*`](https://github.com/LENSAuth/LENS) | Security
   [`space@folsom*`](https://github.com/atfolsom/space) | Invite-only
   [`apis@folsom*`](https://github.com/atfolsom/apis) | API
-  [`PAI*`](https://github.com/faisalnjs/PAI) | Personal
   [`RPI-Global-Address-List*`](https://github.com/faisalnjs/RPI-Global-Address-List) | Security
   [`Verify-RCSID*`](https://github.com/faisalnjs/Verify-RCSID) | Security
   [`InjectElement*`](https://github.com/faisalnjs/InjectElement) | Personal
   & more
+
+  \* private repos (APIs, unreleased, commercial, or closed-source)
   </details>
 
   <details>
@@ -57,12 +60,13 @@
   </details>
 
   <details>
-  <summary>Previously (8)</summary>
+  <summary>Previously (10)</summary>
   <br />
 
   Repository | Ended
   :--- | :---
   [`RPI-CS-1200`](https://github.com/faisalnjs/RPI-CS-1200) | May 2026
+  [`PAI*`](https://github.com/faisalnjs/PAI) | April 2026
   [`HackRPI-Worst-UI`](https://github.com/faisalnjs/HackRPI-Worst-UI) | March 2026
   [`Southern-Bell`](https://github.com/faisalnjs/Southern-Bell) | December 2025
   [`VEX-Robotics`](https://github.com/faisalnjs/VEX-Robotics) | May 2025
@@ -71,11 +75,14 @@
   [`SQL`](https://github.com/faisalnjs/SQL) | May 2024
   [`java`](https://github.com/faisalnjs/java) | May 2024
   [`Click-Quick`](https://github.com/faisalnjs/Click-Quick) | September 2023
+  [`VSCHSD-Student-Forum*`](https://github.com/faisalnjs/VSCHSD-Student-Forum) | June 2023
   & more
+
+  \* private repos (APIs, unreleased, commercial, or closed-source)
   </details>
 
   <details>
-  <summary>Idle (4)</summary>
+  <summary>Idle (3)</summary>
   <br />
 
   Repository | Since
@@ -83,7 +90,6 @@
   [`core`](https://github.com/faisalnjs/core) | September 2024
   [`Synthwave-2077`](https://github.com/faisalnjs/Synthwave-2077) | April 2024
   [`Math-Puzzle`](https://github.com/faisalnjs/Math-Puzzle) | September 2023
-  [`VSCHSD-Student-Forum*`](https://github.com/faisalnjs/VSCHSD-Student-Forum) | June 2023
   & more
 
   \* private repos (APIs, unreleased, commercial, or closed-source)
