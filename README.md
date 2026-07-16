@@ -201,8 +201,6 @@
   
   ## Extras
   
-  [![Discord Status](https://lanyard.kyrie25.dev/api/905990944858451988?showBanner=animated&bg=201337&idleMessage=faisaln.com&showDisplayName=true&animatedDecoration=true&gradient=ff00ee-00fff6&forceGradient=true&waveColor=161616&waveSpotifyColor=161616)](https://discord.gg/5djHSwTfSX)
-  
   [![Jokes Card](https://readme-jokes.vercel.app/api)](https://faisaln.com/)
   </details>
 </div>
