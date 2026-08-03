@@ -14,7 +14,7 @@
   [`HTTPSock`](https://github.com/faisalnjs/HTTPSock) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`EncryptoS`](https://github.com/faisalnjs/EncryptoS) · [`prefill-registration`](https://github.com/faisalnjs/prefill-registration) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) & more
 
   <details>
-  <summary>Maintaining Closed-Source (7)</summary>
+  <summary>Maintaining Closed-Source (8)</summary>
   <br />
 
   Repository | Reason
