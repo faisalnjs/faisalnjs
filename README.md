@@ -19,6 +19,7 @@
 
   Repository | Reason
   :--- | :---
+  [`AutoTrader*`](https://github.com/faisalnjs/AutoTrader) | Personal
   [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) | API
   [`LENS*`](https://github.com/LENSAuth/LENS) | Security
   [`space@folsom*`](https://github.com/atfolsom/space) | Invite-only
@@ -99,14 +100,19 @@
 
   [![Views Counter](https://faisaln.com/count.svg)](https://faisaln.com/)
 
-  [<img src="bento-rounded2.png" alt="Faisal's Bento" />](https://faisaln.com/)
+  <!-- [<img src="bento-rounded2.png" alt="Faisal's Bento" />](https://faisaln.com/) -->
 
   <!-- [![👋 Hi, I’m Faisal!](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=6851F7&vCenter=true&random=false&width=500&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Faisal!;💻+Websites;📦+Apps;🤖+Bots;🎮+Games;%F0%9F%8C%8E+%40faisaln;%F0%9F%94%97+faisaln.com)](https://faisaln.com/) -->
   
-  [![About Me](/button-about-me.png)](https://faisaln.com/)&nbsp;&nbsp;[![Portfolio](/button-portfolio.png)](https://faisaln.com/portfolio)&nbsp;&nbsp;[![Resume](/button-resume.png)](https://faisaln.com/resume)<br>
-  [![Commissions](/button-commissions.png)](https://faisaln.com/commissions)&nbsp;&nbsp;[![Repositories](/button-repositories.png)](https://faisaln.com/repositories)&nbsp;&nbsp;[![Donate](/button-donate.png)](https://buymeacoffee.com/faisaln)
+  <!-- [![About Me](/button-about-me.png)](https://faisaln.com/)&nbsp;&nbsp;[![Portfolio](/button-portfolio.png)](https://faisaln.com/portfolio)&nbsp;&nbsp;[![Resume](/button-resume.png)](https://faisaln.com/resume)<br>
+  [![Commissions](/button-commissions.png)](https://faisaln.com/commissions)&nbsp;&nbsp;[![Repositories](/button-repositories.png)](https://faisaln.com/repositories)&nbsp;&nbsp;[![Donate](/button-donate.png)](https://buymeacoffee.com/faisaln) -->
   
   [![Faisal's Skills](https://skillicons.dev/icons?i=apollo,apple,atom,azure,bitbucket,bootstrap,bots,cloudflare,codepen,cpp,css,debian,devto,discord,discordjs,docker,express,figma,firebase,gatsby,gcp,git,github,githubactions,gitlab,gmail,graphql,heroku,html,idea,ipfs,java,jquery,js,latex,linux,materialui,md,mongodb,mysql,netlify,nextjs,nginx,nodejs,npm,php,pnpm,postman,py,raspberrypi,regex,replit,robloxstudio,sqlite,stackoverflow,tailwind,twitter,ubuntu,vercel,visualstudio,vscode,windows,wordpress,workers&perline=16)](https://faisaln.com/)
+
+  [![Faisal's GitHub Stats](https://gh-window.vercel.app/api/faisalnjs?theme=dark&accent=10b981)](#js-contribution-activity-description)
+
+  [![Faisal N on Wakatime](https://wakatime.com/badge/user/074621a8-639e-4f3e-b6d9-f23b6bb481a9.svg)](https://wakatime.com/@faisalnjs)
+
   <details>
   <summary>My Statistics (GitHub Only)</summary>
 
