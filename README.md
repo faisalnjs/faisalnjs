@@ -14,11 +14,14 @@
   [`HTTPSock`](https://github.com/faisalnjs/HTTPSock) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`EncryptoS`](https://github.com/faisalnjs/EncryptoS) · [`prefill-registration`](https://github.com/faisalnjs/prefill-registration) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) & more
 
   <details>
-  <summary>Maintaining Closed-Source (5)</summary>
+  <summary>Maintaining Closed-Source (8)</summary>
   <br />
 
   Repository | Reason
   :--- | :---
+  [`RPI-CSCI-2200`](https://github.com/faisalnjs/RPI-CSCI-2200) | Active course
+  [`ITWS-1100-nageef`](https://github.com/faisalnjs/ITWS-1100-nageef) | Active course
+  [`itws1100-202609-01-team02`](https://github.com/RPI-ITWS/itws1100-202609-01-team02) | Active course
   [`AutoTrader*`](https://github.com/faisalnjs/AutoTrader) | Personal
   [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) | API
   [`LENS*`](https://github.com/LENSAuth/LENS) | Security
@@ -58,7 +61,7 @@
   </details>
 
   <details>
-  <summary>Previously (14)</summary>
+  <summary>Previously (13)</summary>
   <br />
 
   Repository | Ended
@@ -68,7 +71,6 @@
   [`HackRPI-Worst-UI`](https://github.com/faisalnjs/HackRPI-Worst-UI) | March 2026
   [`space@folsom*`](https://github.com/atfolsom/space) | February 2026
   [`apis@folsom*`](https://github.com/atfolsom/apis) | February 2026
-  [`RPI-Global-Address-List*`](https://github.com/faisalnjs/RPI-Global-Address-List) | February 2026
   [`Southern-Bell`](https://github.com/faisalnjs/Southern-Bell) | December 2025
   [`VEX-Robotics`](https://github.com/faisalnjs/VEX-Robotics) | May 2025
   [`AVR`](https://github.com/faisalnjs/AVR) | November 2024
@@ -83,11 +85,12 @@
   </details>
 
   <details>
-  <summary>Idle (3)</summary>
+  <summary>Idle (4)</summary>
   <br />
 
   Repository | Since
   :--- | :---
+  [`RPI-Global-Address-List*`](https://github.com/faisalnjs/RPI-Global-Address-List) | February 2026
   [`core`](https://github.com/faisalnjs/core) | September 2024
   [`Synthwave-2077`](https://github.com/faisalnjs/Synthwave-2077) | April 2024
   [`Math-Puzzle`](https://github.com/faisalnjs/Math-Puzzle) | September 2023
