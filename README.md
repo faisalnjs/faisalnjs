@@ -9,9 +9,9 @@
 
   You may know me from some of my works:
   
-  Actively Maintaining [`Virtual-Checker`](https://github.com/faisalnjs/Virtual-Checker) · [`Virtual-Clicker`](https://github.com/faisalnjs/Virtual-Clicker)
+  Actively Maintaining [<kbd>Virtual-Checker</kbd>](https://github.com/faisalnjs/Virtual-Checker) · [<kbd>Virtual-Clicker</kbd>](https://github.com/faisalnjs/Virtual-Clicker)
   
-  [`HTTPSock`](https://github.com/faisalnjs/HTTPSock) · [`CommTrackr`](https://github.com/DangoWeb/CommTrackr) · [`CDN`](https://github.com/DangoWeb/CDN) · [`EncryptoS`](https://github.com/faisalnjs/EncryptoS) · [`prefill-registration`](https://github.com/faisalnjs/prefill-registration) · [`Mart-Mail`](https://github.com/faisalnjs/Mart-Mail) · [`Red-Tie-Reminders`](https://github.com/faisalnjs/Red-Tie-Reminders) & more
+  [<kbd>HTTPSock</kbd>](https://github.com/faisalnjs/HTTPSock) · [<kbd>CommTrackr</kbd>](https://github.com/DangoWeb/CommTrackr) · [<kbd>CDN</kbd>](https://github.com/DangoWeb/CDN) · [<kbd>EncryptoS</kbd>](https://github.com/faisalnjs/EncryptoS) · [<kbd>prefill-registration</kbd>](https://github.com/faisalnjs/prefill-registration) · [<kbd>Mart-Mail</kbd>](https://github.com/faisalnjs/Mart-Mail) · [<kbd>Red-Tie-Reminders</kbd>](https://github.com/faisalnjs/Red-Tie-Reminders) & more
 
   <details>
   <summary>Maintaining Closed-Source (8)</summary>
@@ -19,14 +19,14 @@
 
   Repository | Reason
   :--- | :---
-  [`RPI-CSCI-2200`](https://github.com/faisalnjs/RPI-CSCI-2200) | Active course
-  [`ITWS-1100-nageef`](https://github.com/faisalnjs/ITWS-1100-nageef) | Active course
-  [`itws1100-202609-01-team02`](https://github.com/RPI-ITWS/itws1100-202609-01-team02) | Active course
-  [`AutoTrader*`](https://github.com/faisalnjs/AutoTrader) | Personal
-  [`Homework-Checker*`](https://github.com/faisalnjs/Homework-Checker) | API
-  [`LENS*`](https://github.com/LENSAuth/LENS) | Security
-  [`Verify-RCSID*`](https://github.com/faisalnjs/Verify-RCSID) | Security
-  [`InjectElement*`](https://github.com/faisalnjs/InjectElement) | Personal
+  [<kbd>RPI-CSCI-2200</kbd>](https://github.com/faisalnjs/RPI-CSCI-2200) | Active course
+  [<kbd>ITWS-1100-nageef</kbd>](https://github.com/faisalnjs/ITWS-1100-nageef) | Active course
+  [<kbd>itws1100-202609-01-team02</kbd>](https://github.com/RPI-ITWS/itws1100-202609-01-team02) | Active course
+  [<kbd>AutoTrader*</kbd>](https://github.com/faisalnjs/AutoTrader) | Personal
+  [<kbd>Homework-Checker*</kbd>](https://github.com/faisalnjs/Homework-Checker) | API
+  [<kbd>LENS*</kbd>](https://github.com/LENSAuth/LENS) | Security
+  [<kbd>Verify-RCSID*</kbd>](https://github.com/faisalnjs/Verify-RCSID) | Security
+  [<kbd>InjectElement*</kbd>](https://github.com/faisalnjs/InjectElement) | Personal
   & more
 
   \* private repos (APIs, unreleased, commercial, or closed-source)
@@ -38,23 +38,23 @@
 
   Repository | ETA
   :--- | :---
-  [`hws*`](https://github.com/faisalnjs/hws) | May 2026
-  [`THRUNET*`](https://github.com/LENSAuth/THRUNET) | 2026
-  [`MultiSiteWideSearch`](https://github.com/faisalnjs/MultiSiteWideSearch) | 2026
-  [`mailman`](https://github.com/DangoWeb/mailman) | 2026
-  [`Roundcube-SSO`](https://github.com/DangoWeb/Roundcube-SSO) | 2026
-  [`Express-EJS-Static`](https://github.com/DangoWeb/Express-EJS-Static) | 2026
-  [`Express-Sitemap`](https://github.com/DangoWeb/Express-Sitemap) | 2026
-  [`subscripts`](https://github.com/faisalnjs/subscripts) | 2027
-  [`super-spinup`](https://github.com/faisalnjs/super-spinup) | 2027
-  [`VSQuantum`](https://github.com/faisalnjs/VSQuantum) | 2027
-  [`script-setup`](https://github.com/faisalnjs/script-setup) | 2027
-  [`RAPID`](https://github.com/faisalnjs/RAPID) | 2027
-  [`RAPIDs`](https://github.com/faisalnjs/RAPIDs) | 2027
-  [`auxman`](https://github.com/faisalnjs/auxman) | 2027
-  [`fire-prevention`](https://github.com/DangoWeb/fire-prevention) | 2027
-  [`arm`](https://github.com/faisalnjs/arm) | 2027
-  [`BulletCDN`](https://github.com/faisalnjs/BulletCDN) | 2027
+  [<kbd>hws*</kbd>](https://github.com/faisalnjs/hws) | May 2026
+  [<kbd>THRUNET*</kbd>](https://github.com/LENSAuth/THRUNET) | 2026
+  [<kbd>MultiSiteWideSearch</kbd>](https://github.com/faisalnjs/MultiSiteWideSearch) | 2026
+  [<kbd>mailman</kbd>](https://github.com/DangoWeb/mailman) | 2026
+  [<kbd>Roundcube-SSO</kbd>](https://github.com/DangoWeb/Roundcube-SSO) | 2026
+  [<kbd>Express-EJS-Static</kbd>](https://github.com/DangoWeb/Express-EJS-Static) | 2026
+  [<kbd>Express-Sitemap</kbd>](https://github.com/DangoWeb/Express-Sitemap) | 2026
+  [<kbd>subscripts</kbd>](https://github.com/faisalnjs/subscripts) | 2027
+  [<kbd>super-spinup</kbd>](https://github.com/faisalnjs/super-spinup) | 2027
+  [<kbd>VSQuantum</kbd>](https://github.com/faisalnjs/VSQuantum) | 2027
+  [<kbd>script-setup</kbd>](https://github.com/faisalnjs/script-setup) | 2027
+  [<kbd>RAPID</kbd>](https://github.com/faisalnjs/RAPID) | 2027
+  [<kbd>RAPIDs</kbd>](https://github.com/faisalnjs/RAPIDs) | 2027
+  [<kbd>auxman</kbd>](https://github.com/faisalnjs/auxman) | 2027
+  [<kbd>fire-prevention</kbd>](https://github.com/DangoWeb/fire-prevention) | 2027
+  [<kbd>arm</kbd>](https://github.com/faisalnjs/arm) | 2027
+  [<kbd>BulletCDN</kbd>](https://github.com/faisalnjs/BulletCDN) | 2027
   & more
 
   \* private repos (APIs, unreleased, commercial, or closed-source)
@@ -66,19 +66,19 @@
 
   Repository | Ended
   :--- | :---
-  [`RPI-CS-1200`](https://github.com/faisalnjs/RPI-CS-1200) | May 2026
-  [`PAI*`](https://github.com/faisalnjs/PAI) | April 2026
-  [`HackRPI-Worst-UI`](https://github.com/faisalnjs/HackRPI-Worst-UI) | March 2026
-  [`space@folsom*`](https://github.com/atfolsom/space) | February 2026
-  [`apis@folsom*`](https://github.com/atfolsom/apis) | February 2026
-  [`Southern-Bell`](https://github.com/faisalnjs/Southern-Bell) | December 2025
-  [`VEX-Robotics`](https://github.com/faisalnjs/VEX-Robotics) | May 2025
-  [`AVR`](https://github.com/faisalnjs/AVR) | November 2024
-  [`Breast-Cancer-Research`](https://github.com/faisalnjs/Breast-Cancer-Research) | August 2024
-  [`SQL`](https://github.com/faisalnjs/SQL) | May 2024
-  [`java`](https://github.com/faisalnjs/java) | May 2024
-  [`Click-Quick`](https://github.com/faisalnjs/Click-Quick) | September 2023
-  [`VSCHSD-Student-Forum*`](https://github.com/faisalnjs/VSCHSD-Student-Forum) | June 2023
+  [<kbd>RPI-CS-1200</kbd>](https://github.com/faisalnjs/RPI-CS-1200) | May 2026
+  [<kbd>PAI*</kbd>](https://github.com/faisalnjs/PAI) | April 2026
+  [<kbd>HackRPI-Worst-UI</kbd>](https://github.com/faisalnjs/HackRPI-Worst-UI) | March 2026
+  [<kbd>space@folsom*</kbd>](https://github.com/atfolsom/space) | February 2026
+  [<kbd>apis@folsom*</kbd>](https://github.com/atfolsom/apis) | February 2026
+  [<kbd>Southern-Bell</kbd>](https://github.com/faisalnjs/Southern-Bell) | December 2025
+  [<kbd>VEX-Robotics</kbd>](https://github.com/faisalnjs/VEX-Robotics) | May 2025
+  [<kbd>AVR</kbd>](https://github.com/faisalnjs/AVR) | November 2024
+  [<kbd>Breast-Cancer-Research</kbd>](https://github.com/faisalnjs/Breast-Cancer-Research) | August 2024
+  [<kbd>SQL</kbd>](https://github.com/faisalnjs/SQL) | May 2024
+  [<kbd>java</kbd>](https://github.com/faisalnjs/java) | May 2024
+  [<kbd>Click-Quick</kbd>](https://github.com/faisalnjs/Click-Quick) | September 2023
+  [<kbd>VSCHSD-Student-Forum*</kbd>](https://github.com/faisalnjs/VSCHSD-Student-Forum) | June 2023
   & more
 
   \* private repos (APIs, unreleased, commercial, or closed-source)
@@ -90,10 +90,10 @@
 
   Repository | Since
   :--- | :---
-  [`RPI-Global-Address-List*`](https://github.com/faisalnjs/RPI-Global-Address-List) | February 2026
-  [`core`](https://github.com/faisalnjs/core) | September 2024
-  [`Synthwave-2077`](https://github.com/faisalnjs/Synthwave-2077) | April 2024
-  [`Math-Puzzle`](https://github.com/faisalnjs/Math-Puzzle) | September 2023
+  [<kbd>RPI-Global-Address-List*</kbd>](https://github.com/faisalnjs/RPI-Global-Address-List) | February 2026
+  [<kbd>core</kbd>](https://github.com/faisalnjs/core) | September 2024
+  [<kbd>Synthwave-2077</kbd>](https://github.com/faisalnjs/Synthwave-2077) | April 2024
+  [<kbd>Math-Puzzle</kbd>](https://github.com/faisalnjs/Math-Puzzle) | September 2023
   & more
 
   \* private repos (APIs, unreleased, commercial, or closed-source)
@@ -137,7 +137,7 @@
   
   To verify if I authored a commit myself, you may compare the submitted private key to my public key(s) to find authenticity. My latest GPG keys can be accessed via [GitHub](https://github.com/faisalnjs.gpg), [GitLab](https://gitlab.com/faisalnjs.gpg), or below:
     
-  ```plaintext
+  <kbd><kbd><kbd>plaintext
   -----BEGIN PGP PUBLIC KEY BLOCK-----
   
   mDMEaK+1thYJKwYBBAHaRw8BAQdAalFUpBwNFdPoUsOKu/NwZkXpkgFLNTaOgjcz
@@ -151,8 +151,8 @@
   a/4D37oOZLv0AQCHSEtpCQyFOdEkUxXX9P/7uk8snhZIaZiW3mnLo64+Dg==
   =e7Wf
   -----END PGP PUBLIC KEY BLOCK-----
-  ```
-  ```plaintext
+  <kbd><kbd><kbd>
+  <kbd><kbd><kbd>plaintext
   -----BEGIN PGP PUBLIC KEY BLOCK-----
   
   mQINBGT6JaQBEADZZJmcqGm3jedtT2vrXzmZP01HKrllVGa01scoJl2UtL5hfdzJ
@@ -202,7 +202,7 @@
   f30lXsNmo1s5J5oMeg==
   =0WF0
   -----END PGP PUBLIC KEY BLOCK-----
-  ```
+  <kbd><kbd><kbd>
   </details>
   
   <details>
