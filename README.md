@@ -90,7 +90,7 @@
 
   Repository | Since
   :--- | :---
-  [<kbd>RPI-Global-Address-List*</kbd>](https://github.com/faisalnjs/RPI-Global-Address-List) | February 2026
+  [<kbd>RPI-Global-Address-List*</kbd>](https://github.com/faisalnjs/RPI-Global-Address-List) | September 2026
   [<kbd>core</kbd>](https://github.com/faisalnjs/core) | September 2024
   [<kbd>Synthwave-2077</kbd>](https://github.com/faisalnjs/Synthwave-2077) | April 2024
   [<kbd>Math-Puzzle</kbd>](https://github.com/faisalnjs/Math-Puzzle) | September 2023
