@@ -137,7 +137,7 @@
   
   To verify if I authored a commit myself, you may compare the submitted private key to my public key(s) to find authenticity. My latest GPG keys can be accessed via [GitHub](https://github.com/faisalnjs.gpg), [GitLab](https://gitlab.com/faisalnjs.gpg), or below:
     
-  <kbd><kbd><kbd>plaintext
+  ```plaintext
   -----BEGIN PGP PUBLIC KEY BLOCK-----
   
   mDMEaK+1thYJKwYBBAHaRw8BAQdAalFUpBwNFdPoUsOKu/NwZkXpkgFLNTaOgjcz
@@ -151,8 +151,8 @@
   a/4D37oOZLv0AQCHSEtpCQyFOdEkUxXX9P/7uk8snhZIaZiW3mnLo64+Dg==
   =e7Wf
   -----END PGP PUBLIC KEY BLOCK-----
-  <kbd><kbd><kbd>
-  <kbd><kbd><kbd>plaintext
+  ```
+  ```plaintext
   -----BEGIN PGP PUBLIC KEY BLOCK-----
   
   mQINBGT6JaQBEADZZJmcqGm3jedtT2vrXzmZP01HKrllVGa01scoJl2UtL5hfdzJ
@@ -202,7 +202,7 @@
   f30lXsNmo1s5J5oMeg==
   =0WF0
   -----END PGP PUBLIC KEY BLOCK-----
-  <kbd><kbd><kbd>
+  ```
   </details>
   
   <details>
