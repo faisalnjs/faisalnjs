@@ -33,11 +33,13 @@
   </details>
 
   <details>
-  <summary>Upcoming (17)</summary>
+  <summary>Upcoming (19)</summary>
   <br />
 
   Repository | ETA
   :--- | :---
+  [<kbd>mq-balance*</kbd>](https://github.com/DangoWeb/mq-balance) | 2026
+  [<kbd>mq*</kbd>](https://github.com/DangoWeb/mq) | 2026
   [<kbd>hws*</kbd>](https://github.com/faisalnjs/hws) | May 2026
   [<kbd>THRUNET*</kbd>](https://github.com/LENSAuth/THRUNET) | 2026
   [<kbd>MultiSiteWideSearch</kbd>](https://github.com/faisalnjs/MultiSiteWideSearch) | 2026
@@ -61,7 +63,7 @@
   </details>
 
   <details>
-  <summary>Previously (13)</summary>
+  <summary>Previously (14)</summary>
   <br />
 
   Repository | Ended
