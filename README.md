@@ -1,27 +1,31 @@
 <div align="center">
-  <a href="https://faisaln.com/"><img height="100" src="https://faisaln.com/logo.png" /></a>
-  
+  <a href="https://faisaln.com/"><img height="100" src="https://faisalnageer.com/circle.png" /></a>
+  <!-- <a href="https://faisaln.com/"><img height="300" src="https://faisalnageer.com/faisalnageer.png" /></a> -->
+
   # Faisal N
   
   Full Stack Web Developer
 
-  Slowly changing the 🌐 for the better :)
+  Changing the 🌐 for the better :)
 
   You may know me from some of my works:
   
-  Actively Maintaining [<kbd>Virtual-Checker</kbd>](https://github.com/faisalnjs/Virtual-Checker) · [<kbd>Virtual-Clicker</kbd>](https://github.com/faisalnjs/Virtual-Clicker)
+  Actively Maintaining [<kbd>Virtual-Checker</kbd>](https://github.com/faisalnjs/Virtual-Checker) · [<kbd>Virtual-Clicker</kbd>](https://github.com/faisalnjs/Virtual-Clicker) · [<kbd>valleystream30/www</kbd>](https://github.com/valleystream30/www)
   
-  [<kbd>HTTPSock</kbd>](https://github.com/faisalnjs/HTTPSock) · [<kbd>CommTrackr</kbd>](https://github.com/DangoWeb/CommTrackr) · [<kbd>CDN</kbd>](https://github.com/DangoWeb/CDN) · [<kbd>EncryptoS</kbd>](https://github.com/faisalnjs/EncryptoS) · [<kbd>prefill-registration</kbd>](https://github.com/faisalnjs/prefill-registration) · [<kbd>Mart-Mail</kbd>](https://github.com/faisalnjs/Mart-Mail) · [<kbd>Red-Tie-Reminders</kbd>](https://github.com/faisalnjs/Red-Tie-Reminders) & more
+  [<kbd>adapttolife/adaptivesportsnearme</kbd>](https://github.com/adapttolife/adaptivesportsnearme) · [<kbd>adapttolife/adapttolife</kbd>](https://github.com/adapttolife/adapttolife) · [<kbd>adapttolife/asnm-agents</kbd>](https://github.com/adapttolife/asnm-agents)
+  
+  [<kbd>HTTPSock</kbd>](https://github.com/faisalnjs/HTTPSock) · [<kbd>CDN</kbd>](https://github.com/DangoWeb/CDN) · [<kbd>prefill-registration</kbd>](https://github.com/faisalnjs/prefill-registration) & more
 
   <details>
-  <summary>Maintaining Closed-Source (8)</summary>
+  <summary>Maintaining Closed-Source (9)</summary>
   <br />
 
   Repository | Reason
   :--- | :---
-  [<kbd>RPI-CSCI-2200</kbd>](https://github.com/faisalnjs/RPI-CSCI-2200) | Active course
-  [<kbd>ITWS-1100-nageef</kbd>](https://github.com/faisalnjs/ITWS-1100-nageef) | Active course
-  [<kbd>itws1100-202609-01-team02</kbd>](https://github.com/RPI-ITWS/itws1100-202609-01-team02) | Active course
+  [<kbd>rplotka/stridelms-sandbox*</kbd>](https://github.com/rplotka/stridelms-sandbox) | Security
+  [<kbd>RPI-CSCI-2200*</kbd>](https://github.com/faisalnjs/RPI-CSCI-2200) | Active course
+  [<kbd>ITWS-1100-nageef*</kbd>](https://github.com/faisalnjs/ITWS-1100-nageef) | Active course
+  [<kbd>itws1100-202609-01-team02*</kbd>](https://github.com/RPI-ITWS/itws1100-202609-01-team02) | Active course
   [<kbd>AutoTrader*</kbd>](https://github.com/faisalnjs/AutoTrader) | Personal
   [<kbd>Homework-Checker*</kbd>](https://github.com/faisalnjs/Homework-Checker) | API
   [<kbd>LENS*</kbd>](https://github.com/LENSAuth/LENS) | Security
@@ -63,11 +67,13 @@
   </details>
 
   <details>
-  <summary>Previously (14)</summary>
+  <summary>Previously (16)</summary>
   <br />
 
   Repository | Ended
   :--- | :---
+  [<kbd>Mart-Mail</kbd>](https://github.com/faisalnjs/Mart-Mail) | January 2026
+  [<kbd>Red-Tie-Reminders</kbd>](https://github.com/faisalnjs/Red-Tie-Reminders) | February 2026
   [<kbd>PrivateSIS</kbd>](https://github.com/faisalnjs/PrivateSIS) | October 2026
   [<kbd>RPI-CS-1200</kbd>](https://github.com/faisalnjs/RPI-CS-1200) | May 2026
   [<kbd>PAI*</kbd>](https://github.com/faisalnjs/PAI) | April 2026
@@ -88,12 +94,14 @@
   </details>
 
   <details>
-  <summary>Idle (4)</summary>
+  <summary>Idle (6)</summary>
   <br />
 
   Repository | Since
   :--- | :---
   [<kbd>RPI-Global-Address-List*</kbd>](https://github.com/faisalnjs/RPI-Global-Address-List) | September 2026
+  [<kbd>CommTrackr</kbd>](https://github.com/DangoWeb/CommTrackr) | April 2026
+  [<kbd>EncryptoS</kbd>](https://github.com/faisalnjs/EncryptoS) | February 2026
   [<kbd>core</kbd>](https://github.com/faisalnjs/core) | September 2024
   [<kbd>Synthwave-2077</kbd>](https://github.com/faisalnjs/Synthwave-2077) | April 2024
   [<kbd>Math-Puzzle</kbd>](https://github.com/faisalnjs/Math-Puzzle) | September 2023
