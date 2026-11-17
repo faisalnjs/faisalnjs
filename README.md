@@ -72,9 +72,9 @@
 
   Repository | Ended
   :--- | :---
-  [<kbd>Mart-Mail</kbd>](https://github.com/faisalnjs/Mart-Mail) | January 2026
-  [<kbd>Red-Tie-Reminders</kbd>](https://github.com/faisalnjs/Red-Tie-Reminders) | February 2026
   [<kbd>PrivateSIS</kbd>](https://github.com/faisalnjs/PrivateSIS) | October 2026
+  [<kbd>Red-Tie-Reminders</kbd>](https://github.com/faisalnjs/Red-Tie-Reminders) | February 2026
+  [<kbd>Mart-Mail</kbd>](https://github.com/faisalnjs/Mart-Mail) | January 2026
   [<kbd>RPI-CS-1200</kbd>](https://github.com/faisalnjs/RPI-CS-1200) | May 2026
   [<kbd>PAI*</kbd>](https://github.com/faisalnjs/PAI) | April 2026
   [<kbd>HackRPI-Worst-UI</kbd>](https://github.com/faisalnjs/HackRPI-Worst-UI) | March 2026
